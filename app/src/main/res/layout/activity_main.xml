@@ -19,7 +19,7 @@
 
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
-            android:gravity="center_vertical"> android:layout_marginTop="200dp"
+            android:gravity="center_vertical">
         <SearchView
                 android:id="@+id/id_sv_search"
                 android:layout_width="match_parent"
