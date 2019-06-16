@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="foursquare_client_id" templateMergeStrategy="preserve" translatable="false">
+        HSODZOWB5WKLMV5NP4PQ3KCY3OQJMUNTLVDRKNJ1KSGVXQBR
+    </string>
+    <string name="foursquare_client_secret" templateMergeStrategy="preserve" translatable="false">
+        CNPIIPQW4H3NBFNWQCZQFHUTKDAPWUQM5RAU4SG2BLF3NBKS
+    </string>
+</resources>
